@@ -1,0 +1,5 @@
+JOIN:
+exterior: cuidado con los where 
+dos tablas: cuidado con las multiplicidades (distinct)
+diferencia de where y and: el and se utiliza en join exteriores (mirar diapositiva 28 del pdf sql avanzado para que quede más claro).
+
